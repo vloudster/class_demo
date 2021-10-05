@@ -1,1 +1,2 @@
-this is my second file for my new branch 
+this is my second file for my new branch
+this is an edit on the feature 2 branch
